@@ -1,52 +1,54 @@
-# 👋 Hola, soy Cesar Ruiz Moreno
+# 👋 Hi, I'm Cesar Ruiz Moreno
 
-💻 Full Stack Developer | TypeScript | React | Node.js  
-📍 Argentina  
-
----
-
-## 🚀 Sobre mí
-- +5 años desarrollando aplicaciones web y sistemas backend
-- Experiencia en APIs REST, autenticación (JWT) y arquitectura full-stack
-- Trabajo tanto en frontend como backend
-- Interesado en proyectos escalables y trabajo remoto
+💻 Full Stack Developer (React / Node.js / TypeScript)  
+📍 Argentina | Open to remote opportunities  
 
 ---
 
-## 🛠 Stack tecnológico
+## 🚀 About me
+- +5 years building web applications and backend systems
+- Strong experience in REST APIs, authentication (JWT), and full-stack architecture
+- Currently working on scalable internal systems and modular platforms
+- Focused on writing clean, maintainable, and production-ready code
+
+---
+
+## 🛠 Tech Stack
 **Frontend**
 - React, TypeScript, JavaScript, HTML, CSS
 
 **Backend**
 - Node.js, Express, PHP
 
-**Bases de datos**
+**Databases**
 - MongoDB, PostgreSQL, MySQL
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Featured Projects
 
-### 🔹 Plataforma de Posters con IA
-- App full-stack con sistema de votación y ranking
-- Autenticación con JWT
-- API REST
-- Stack: React + Node.js + MongoDB
+### 🔹 AI Poster Platform
+Full-stack web application with authentication, voting system and ranking logic  
+- JWT Authentication  
+- REST API  
+- MongoDB  
+- React + Node.js  
 
-### 🔹 Sistema modular CRUD (en progreso)
-- Arquitectura escalable para gestión de módulos
-- Backend serverless (AWS Lambda)
-- Frontend con React + MUI
-
----
-
-## 📈 Qué estoy haciendo ahora
-- Mejorando mi inglés para trabajar en equipos internacionales
-- Construyendo proyectos full-stack escalables
-- Explorando tecnologías Web3 / Ethereum
+### 🔹 Modular CRUD System
+Scalable architecture for dynamic module management  
+- Serverless backend (AWS Lambda)  
+- React + MUI frontend  
+- Validation and versioning system  
 
 ---
 
-## 📫 Contacto
-- Email: ruizmorenoca@gmail.com
+## 📈 What I'm doing now
+- Improving my English for international teams  
+- Building scalable full-stack applications  
+- Exploring Web3 / Ethereum ecosystem  
+
+---
+
+## 📫 Contact
+- Email: ruizmorenoca@gmail.com  
 - GitHub: https://github.com/CesarNocios
