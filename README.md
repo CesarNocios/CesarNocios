@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Cesar Ruiz Moreno 👋
 
-<!--
-**CesarNocios/CesarNocios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | TypeScript | React | Node.js
 
-Here are some ideas to get you started:
+## 🚀 About me
+- 5+ years building web applications
+- Experience with REST APIs, authentication (JWT), and databases
+- Currently working on scalable full-stack systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Frontend: React, TypeScript
+- Backend: Node.js, Express
+- DB: MongoDB, PostgreSQL
+
+## 📌 Featured Projects
+- Project 1 – short description
+- Project 2 – short description
+
+## 📫 Contact
+- Email: ruizmorenoca@gmail.com
